@@ -29,8 +29,6 @@ Contiene los archivos JavaScript responsables de la lógica de la aplicación.
 Contiene recursos del proyecto como:
 - Imágenes
 - Iconos
-- Archivos JSON
-- Componentes
 - Recursos multimedia
 
 ## Cómo Ejecutar el Proyecto
